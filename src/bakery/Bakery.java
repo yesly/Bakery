@@ -22,7 +22,7 @@ import javafx.stage.Stage;
 import javafx.util.Duration;
 
 /**
- * Main class for Bakery in Yesly Dev
+ * Main class for Bakery
  * @author Yesly
  */
 public class Bakery extends Application {
