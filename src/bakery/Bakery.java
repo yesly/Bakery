@@ -21,6 +21,10 @@ import javafx.scene.text.Text;
 import javafx.stage.Stage;
 import javafx.util.Duration;
 
+/**
+ * Main class for Bakery
+ * @author Yesly
+ */
 public class Bakery extends Application {
 
     //data fields
