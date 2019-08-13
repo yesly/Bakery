@@ -1,0 +1,76 @@
+/* 
+    Author     : Yesly Rodriguez & Yeilys Fundora
+*/
+#english{
+    
+     -fx-background-color: #ffe4e1;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 3, 0.0 , 0 , 1 );
+    
+}
+
+#spanish{
+-fx-background-color: #ffe4e1;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 3, 0.0 , 0 , 1 );
+}
+
+
+#scroll {
+  -fx-background: pink;
+
+}
+
+#add{
+    -fx-font: 10pt "Serif";
+     -fx-background-color: #ffe4e1;
+    -radial-gradient: center 50% -40%;
+    -fx-radius: 200%, #ff69b4 45%, rgba(230,230,230,0) 50%; 
+    -fx-background-radius: 30;        
+    -fx-text-fill: black;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 3, 0.0 , 0 , 1 );
+    
+}
+
+#submit{
+    -fx-font: 10pt "Serif";
+     -fx-background-color: #ffe4e1;
+    -radial-gradient: center 50% -40%;
+    -fx-radius: 200%, #ff69b4 45%, rgba(230,230,230,0) 50%; 
+    -fx-background-radius: 30;        
+    -fx-text-fill: black;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 3, 0.0 , 0 , 1 );
+    
+    }
+    
+#sectionLabels{
+  
+    -fx-font: bold italic 20pt "Serif";
+    -fx-text-fill: whitesmoke;
+    -fx-effect: dropshadow(three-pass-box, pink, 10, 0, 0, 0);
+}
+
+#radioButtons{ 
+    -fx-font: italic 10pt "Serif";
+    
+ 
+}
+#menu{
+    -fx-font: 10pt "Serif";
+     -fx-background-color: #ffe4e1;
+    -radial-gradient: center 50% -40%;
+    -fx-radius: 200%, #ff69b4 45%, rgba(230,230,230,0) 50%; 
+    -fx-background-radius: 30;        
+    -fx-text-fill: black;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 3, 0.0 , 0 , 1 );
+
+}
+
+#check{
+    -fx-background-color: #ffe4e1;
+    -radial-gradient: center 50% -40%;
+    -fx-radius: 200%, #ff69b4 45%, rgba(230,230,230,0) 50%; 
+    -fx-background-radius: 30;        
+    -fx-text-fill: black;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 3, 0.0 , 0 , 1 );
+}
+
+
